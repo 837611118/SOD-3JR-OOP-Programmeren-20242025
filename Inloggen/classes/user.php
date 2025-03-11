@@ -1,6 +1,6 @@
 <?php
 // Functie: classdefinitie User 
-// Auteur: Abdul
+// Auteur: Abdul etwetwet
 
 class User {
     private $db;
