@@ -1,0 +1,15 @@
+{
+    "name": "abdul/login",
+    "autoload": {
+        "psr-4": {
+            "Login\\classes\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "837611118",
+            "email": "144031540+837611118@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
