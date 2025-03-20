@@ -3,7 +3,7 @@
         'name' => 'abdul/login',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'b5f4dbdb66481a4ac637df6dc2c03bbd8c5096e8',
+        'reference' => '2662e5f6554dca91f302dc89fd14edfee702988f',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'abdul/login' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'b5f4dbdb66481a4ac637df6dc2c03bbd8c5096e8',
+            'reference' => '2662e5f6554dca91f302dc89fd14edfee702988f',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

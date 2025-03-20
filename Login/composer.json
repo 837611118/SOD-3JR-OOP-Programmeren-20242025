@@ -2,7 +2,7 @@
     "name": "abdul/login",
     "autoload": {
         "psr-4": {
-            "Login\\classes\\": "classes/"
+            "Login\\": "src/"
         }
     },
     "authors": [

@@ -5,7 +5,7 @@ namespace Login\classes;
 use PDO;
 use PDOException;
 
-class user {
+class User {
     private $db;
     public $username;
     public $email;

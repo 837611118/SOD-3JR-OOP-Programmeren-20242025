@@ -1,12 +1,12 @@
 <?php 
 session_start(); // Start the session
  require_once "../vendor/autoload.php";
- use Login\classes\user;
+ use Login\classes\User;
 
 if (isset($_POST['login-btn'])) {
     //require_once('classes/user.php');
    
-    $user = new user();
+    $user = new User();
     $user->username = $_POST['username'];
     $user->SetPassword($_POST['password']);
 

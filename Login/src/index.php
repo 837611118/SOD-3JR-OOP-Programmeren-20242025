@@ -2,10 +2,10 @@
 // require_once 'classes/user.php';
 require_once __DIR__ . "/../vendor/autoload.php";
 
-use Login\classes\user;
+use Login\classes\User;
 
 
-$user = new user();
+$user = new User();
 if (isset($_GET['logout'])) {
     $user->Logout();
 }
