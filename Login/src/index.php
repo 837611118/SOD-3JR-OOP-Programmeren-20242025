@@ -4,7 +4,6 @@ require_once __DIR__ . "/../vendor/autoload.php";
 
 use Login\classes\User;
 
-
 $user = new User();
 if (isset($_GET['logout'])) {
     $user->Logout();
