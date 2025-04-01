@@ -1,8 +1,11 @@
 {
     "name": "abdul/login",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
     "autoload": {
         "psr-4": {
-            "Login\\": "src/"
+            "Abdul\\Login\\": "src/"
         }
     },
     "authors": [
