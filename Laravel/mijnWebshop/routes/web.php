@@ -12,6 +12,9 @@ Route::get('/helloKoppelingen', function () {
 Route::get('/hello/{param}', function ($param) {
     return 'hello ' . $param;
 });
+Route::get('/test', function () {
+    return 'test rout ';
+});
 
 
 ?>
